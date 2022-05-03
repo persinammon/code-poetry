@@ -16,7 +16,7 @@ What makes something a code poem?<br />
 This project is open to submissions C:<br />
 <br />
 <ul>
-<li>Make a PR with poetry written in code or a (very) small computer system that is both functional + whose code has a semantically poetic double meaning</li>
+<li>Make a PR with poetry written in code</li>
   <li>I value the beauty/awe/poetic gut feeling over NLP tricks</li>
   <li>Title the PR with your favorite handle and optionally your given name</li>
 <li>Solicitations/advertisements are not allowed</li>
