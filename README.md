@@ -1,6 +1,7 @@
 # code-poetry
 Code poetry I wrote c:
 
+
 What makes something a code poem?<br />
 a) it's written using features of a programming language<br />
 b) it may or may not compile or run<br />
@@ -11,6 +12,7 @@ e) and you probably won't understand it unless you're into coding??? lol<br />
 # how-to-submit
 
 This project is open to submissions C:<br />
+
 Make a PR with poetry written in code or a (very) small computer system that is both functional + whose code has a semantically poetic double meaning<br />
 I value the beauty/awe/poetic gut feeling over NLP tricks<br />
 Title the PR with your favorite handle and optionally your given name<br />
