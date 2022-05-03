@@ -1,0 +1,47 @@
+*dark_underbelly_of_the_world_wide_web.txt
+
+this poem is about original sin:
+
+ssh eden
+cd garden
+ls -l
+cat adam.exe | grep "a soul" 
+./adam.exe | eve.exe
+rm -f adam.exe
+git commit -m " u rde r"
+exit
+
+
+this poem is about not getting asked to prom:
+
+zip(["boy_1", "boy_2", "boy_3"], ["girl_1", "girl_2", "boy_4", "me"])
+
+
+this poem is about the end of the universe:
+
+sudo su god
+rm -rf *
+
+
+this poem started life from a smaller poem, written by a friend who was cold (hands, shallow shoal heart):
+
+#i say distant memories are meant to last but
+#if i remember you, and you don't remember me, did it happen at all?
+
+me = defaultdict(3)
+me["you"] = int('inf')
+
+def sweetOn(you):
+  for _ in range(me[you]):
+    yield "love"
+
+f = sweetOn("you")
+>>>f.next()
+'love'
+>>>f.next()
+'love'
+>>>f.next()
+'love'
+>>>
+
+
