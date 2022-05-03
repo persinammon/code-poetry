@@ -43,3 +43,5 @@ f = sweetOn("you")
 >>>f.next()
 'love'
 >>>
+
+
