@@ -17,7 +17,7 @@ This project is open to submissions C:<br />
 <br />
 <ul>
 <li>Make a PR with poetry written in code</li>
-  <li>I value the beauty/awe/poetic gut feeling over NLP tricks</li>
+  <li>I value the beauty/awe/poetic gut feeling over NLP/AI/ML chops or tricks</li>
   <li>Title the PR with your favorite handle and optionally your given name</li>
 <li>Solicitations/advertisements are not allowed</li>
 <li>If you would like to submit the work to another zine, be aware of their rules on self-publishing before submitting here</li>
