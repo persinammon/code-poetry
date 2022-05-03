@@ -3,11 +3,13 @@ Code poetry I wrote c:
 <br />
 <br />
 What makes something a code poem?<br />
-a) it's written using features of a programming language<br />
-b) it may or may not compile or run<br />
-c) it deals with an emotional topic or the human condition<br />
-d) idk, u kno it when u c it typa deal?? needs an approriate amount of QQ<br />
-e) and you probably won't understand it unless you're into coding??? lol<br />
+<ol>
+<li>it's written using features of a programming language</li>
+  <li>it may or may not compile or run</li>
+<li>it deals with an emotional topic or the human condition</li>
+<li>idk, u kno it when u c it typa deal?? needs an approriate amount of QQ</li>
+<li>and you probably won't understand it unless you're into coding??? lol</li>
+</ol>
 
 # how-to-submit
 
