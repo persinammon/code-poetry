@@ -11,7 +11,6 @@ What makes something a code poem?<br />
 # how-to-submit
 
 This project is open to submissions C:<br />
-<br />
 <ul>
 <li>Make a PR with poetry written in code</li>
   <li>I value the beauty/awe/poetic gut feeling over NLP/AI/ML chops or tricks</li>
