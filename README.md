@@ -1,7 +1,7 @@
 # code-poetry
-Code poetry I wrote c:__
+Code poetry I wrote c:
 
-What makes something a code poem? 
+What makes something a code poem?__
 a) it's written using features of a programming language
 b) it may or may not compile or run
 c) it deals with an emotional topic or the human condition 
