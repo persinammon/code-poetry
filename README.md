@@ -1,5 +1,5 @@
 # code-poetry
-Code poetry I wrote c:
+Code poetry I wrote c: \
 
 What makes something a code poem? 
 a) it's written using features of a programming language
