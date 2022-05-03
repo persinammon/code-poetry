@@ -14,8 +14,8 @@ e) and you probably won't understand it unless you're into coding??? lol<br />
 This project is open to submissions C:<br />
 <br />
 <ul>
-<li>Make a PR with poetry written in code or a (very) small computer system that is both functional + whose code has a semantically poetic double meaning<br />
-  I value the beauty/awe/poetic gut feeling over NLP tricks</li>
+<li>Make a PR with poetry written in code or a (very) small computer system that is both functional + whose code has a semantically poetic double meaning</li>
+  <li>I value the beauty/awe/poetic gut feeling over NLP tricks</li>
   <li>Title the PR with your favorite handle and optionally your given name</li>
 <li>Solicitations/advertisements are not allowed</li>
 <li>Unlikely, but I may post a link to this repo on forums or Medium, in which case I promise on my integrity I won't use or reshare your work as my own or for self-aggrandizement</li>
