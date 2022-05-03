@@ -20,6 +20,5 @@ Unlikely, but I may post a link to this repo on forums or Medium, in which case 
 If you would like to submit the work to another zine, be aware of their rules on self-publishing before submitting here<br />
 Also ping me if they actually understand or accept the work so I can submit too, never encountered a venue like that before<br />
 <br />
-<br />
 No pressure, enjoy!
 
