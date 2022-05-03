@@ -1,5 +1,4 @@
-# code-poetry
-Code poetry I wrote c:
+# code-poetry c:
 <br />
 <br />
 What makes something a code poem?<br />
