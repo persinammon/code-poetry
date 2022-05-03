@@ -13,13 +13,15 @@ e) and you probably won't understand it unless you're into coding??? lol<br />
 
 This project is open to submissions C:<br />
 <br />
-Make a PR with poetry written in code or a (very) small computer system that is both functional + whose code has a semantically poetic double meaning<br />
-I value the beauty/awe/poetic gut feeling over NLP tricks<br />
-Title the PR with your favorite handle and optionally your given name<br />
-Solicitations/advertisements are not allowed<br />
-Unlikely, but I may post a link to this repo on forums or Medium, in which case I promise on my integrity I won't use or reshare your work as my own or for self-aggrandizement<br />
-If you would like to submit the work to another zine, be aware of their rules on self-publishing before submitting here<br />
-Also ping me if they actually understand or accept the work so I can submit too, never encountered a venue like that before<br />
+<ul>
+<li>Make a PR with poetry written in code or a (very) small computer system that is both functional + whose code has a semantically poetic double meaning<br />
+  I value the beauty/awe/poetic gut feeling over NLP tricks</li>
+  <li>Title the PR with your favorite handle and optionally your given name</li>
+<li>Solicitations/advertisements are not allowed</li>
+<li>Unlikely, but I may post a link to this repo on forums or Medium, in which case I promise on my integrity I won't use or reshare your work as my own or for self-aggrandizement</li>
+<li>If you would like to submit the work to another zine, be aware of their rules on self-publishing before submitting here</li>
+<li>Also ping me if they actually understand or accept the work so I can submit too, never encountered a venue like that before</li>
+</ul>
 <br />
 No pressure, enjoy!
 
