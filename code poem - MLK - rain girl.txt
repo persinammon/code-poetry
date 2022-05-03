@@ -1,0 +1,104 @@
+*dark_underbelly_of_the_world_wide_web.txt
+
+this poem is about original sin:
+
+ssh eden
+cd garden
+ls -l
+cat adam.exe | grep "a soul" 
+./adam.exe | eve.exe
+rm -f adam.exe
+git commit -m " u rde r"
+exit
+
+
+this poem is about not getting asked to prom:
+
+zip(["boy_1", "boy_2", "boy_3"], ["girl_1", "girl_2", "boy_4", "me"])
+
+
+this poem is about the end of the universe:
+
+sudo su god
+rm -rf *
+
+
+this poem started life from a smaller poem, written by a friend who was cold (hands, shallow shoal heart):
+
+me = defaultdict(3)
+me["you"] = int('inf')
+
+def sweetOn(you):
+  for _ in range(me[you]):
+    yield "love"
+
+f = sweetOn("you")
+>>>f.next()
+'love'
+>>>f.next()
+'love'
+>>>f.next()
+'love'
+>>>
+
+
+---------- in progress -------------
+this poem is 5 centimeters per second and it's inspired by growing apart from puppy love:
+
+byte same = (byte) 0b0110101; \\number
+byte not_same = (byte) 0b0110101; \\number too
+
+public static boolean weOrYouAndI(byte one, byte two) {
+  
+}
+
+----------in progress------------
+
+this poem is after the afterparty:
+
+byte romeo = (byte) 0b00101010 == (int) 42; 
+byte juliet = (byte) 0b00011101 == (int) 29; 
+
+
+\\taking a bit out to make a new byte
+byte lovable_experiment = romeo | juliet = 0b00111111 == (int) 63; 
+
+
+/* this kid is energetic! odd prime, like you!
+   no- 2*2*7->3*3*7, like you! 
+   wow, you're right- you always were the smart one, honey! */
+
+
+\\taking a byte out to make a bit of bytes
+byte golden_child = romeo & juliet = 0b00001000 == (int) 8; 
+
+
+/* we're so lucky, shy but studious. 
+do 8's factor in your side of the family?
+no, not really. 
+i thought she'd be just like us.
+she's just like us, and nothing like us at the same time? 
+her great grandpa was a single digit too - 0b00000001 */
+
+
+\\hey, let's not byte off more than we can chew
+\\i concur, 2^1 is exhausting without a multiprocessing unit- a new server farm is opening in hawaii next year, should we transit?
+\\aww that sounds like a great idea...but.......why are we still in single-line comments?..........oh no.
+byte we_love_surprises = romeo ^ juliet = 0b00110111 == (int) 55; \\wild child
+
+
+/* ......
+....
+.........
+....
+........ */
+
+/* oops */
+
+
+\\.... .... . .
+\\you know, i always had a thing for family trees. 2^2?
+\\........mom was right about men who are too even
+
+
+
