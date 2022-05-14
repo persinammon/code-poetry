@@ -55,6 +55,7 @@ public static boolean weOrYouAndI(byte one, byte two) {
   
 }
 
+----------in progress------------
 
 this poem is after the afterparty:
 
@@ -66,7 +67,7 @@ byte juliet = (byte) 0b00011101 == (int) 29;
 byte lovable_experiment = romeo | juliet = 0b00111111 == (int) 63; 
 
 
-\* this kid is energetic! odd, like you!
+/* this kid is energetic! odd prime, like you!
    no- 2*2*7->3*3*7, like you! 
    wow, you're right- you always were the smart one, honey! */
 
@@ -75,7 +76,7 @@ byte lovable_experiment = romeo | juliet = 0b00111111 == (int) 63;
 byte golden_child = romeo & juliet = 0b00001000 == (int) 8; 
 
 
-\* we're so lucky, shy but studious. 
+/* we're so lucky, shy but studious. 
 do 8's factor in your side of the family?
 no, not really. 
 i thought she'd be just like us.
@@ -85,17 +86,22 @@ her great grandpa was a single digit too - 0b00000001 */
 
 \\hey, let's not byte off more than we can chew
 \\i concur, 2^1 is exhausting without a multiprocessing unit- a new server farm is opening in hawaii next year, should we transit?
-\\aww that sounds like a great idea..why are we still in single-line comments?
-\\
-
-\\and then...
+\\aww that sounds like a great idea...but.......why are we still in single-line comments?..........oh no.
 byte we_love_surprises = romeo ^ juliet = 0b00110111 == (int) 55; \\wild child
 
-\\oops
-\\.... . 
+
+/* ......
+....
+.........
+....
+........ */
+
+/* oops */
+
+
+\\.... .... . .
 \\you know, i always had a thing for family trees. 2^2?
-\\.. . . .  .  ..... i should've married another prime only child like mom said, screw evens with the good hair
+\\........mom was right about men who are too even
 
 
-----------in progress------------
 
