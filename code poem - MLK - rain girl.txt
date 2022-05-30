@@ -25,9 +25,6 @@ rm -rf *
 
 this poem started life from a smaller poem, written by a friend who was cold (hands, shallow shoal heart):
 
-#i say distant memories are meant to last but
-#if i remember you, and you don't remember me, did it happen at all?
-
 me = defaultdict(3)
 me["you"] = int('inf')
 
